@@ -1,5 +1,5 @@
 <?php
-namespace Asgard\Tester\Commands;
+namespace Asgard\Tester\Command;
 
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Input\InputInterface;
